@@ -3,6 +3,7 @@
 
 ## Result
 * USER
-  1.John DOE
-  2.HR USER
-  3.IT ADMIN
+1. John Doe (employee).
+2. HR (USER)
+3. IT (Admin)
+
